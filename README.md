@@ -13,7 +13,6 @@
 ### 🏢 **Current Role**
 
 - **Software Developer @ Badri Management Consultancy, Karachi (Nov 2024 - Present)**
-  - 🚀 Front-end & Back-end integration for machine learning models.
   - 📱 Developing Desktop App using PyQt5, PyQt6, and PySide6.
   - 💡 Implementing IFRS 17 Insurance Models in Python.
   - 📊 Creating Dashboards using Plotly and Apexcharts.
