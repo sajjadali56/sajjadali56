@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <h1>👋 Hey There, I'm Sajjad Ali!</h1>
-  <p> 🎯 Software Developer | 🤖 ML Enthusiast | 🔎 Problem Solver</p>
-  <img 
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
-    width="40px"/>
+  <p> 🎯 Full Stack Developer | 🔎 Problem Solver</p>
 </div>
 
 ---
