@@ -44,28 +44,17 @@
 
 | **Category**              | **Technologies**                                                                     |
 | ------------------------- | ------------------------------------------------------------------------------------ |
-| **Programming Languages** | Python, JavaScript, Java, C#, Dart, Kotlin, R, C, C++                                |
-| **Web Frontend**          | React, Next.js, jQuery, Bootstrap, DaisyUI, Radix UI, Chakra UI, Tailwind            |
-| **Web Backend**           | Node.js, Express, Django, FastAPI, Spring Boot, .NET, Flask                          |
-| **Desktop Development**   | PyQt, C#, Java Swing, JavaFx, Electron, Tkinter                                      |
-| **Data Science**          | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tensorflow, PyTorch, Keras, OpenCV |
+| **Programming Languages** | Python, JavaScript, Java, C#, Dart, Kotlin, C++                                |
+| **Web Frontend**          | React, Next.js, SolidJS, jQuery, Bootstrap, DaisyUI, Radix UI, Chakra UI, Tailwind            |
+| **Web Backend**           | Node.js, Express, Django, FastAPI                           |
+| **Desktop Development**   | PySide, C#, Java Swing                                      |
+| **Data Science**          | Pandas, Polars, NumPy, Matplotlib, Seaborn, Scikit-learn, Tensorflow, PyTorch, Keras, OpenCV |
 | **Mobile Development**    | Android Studio, Flutter, React Native                                                |
-| **Databases**             | MongoDB, MySQL, SQLite, PostgreSQL, Microsoft SQL Server                             |
+| **Databases**             | MongoDB, MySQL, SQLite                              |
 | **ORM/ODM**               | Prisma, SqlAlchemy, Entity Framework, Mongoose                                       |
 | **Hosting**               | Firebase, GitHub Pages, Heroku, Netlify, Vercel                                      |
 | **IDEs/Editors**          | VS Code, IntelliJ IDEA, Jupyter Notebook, Android Studio, Vim, Visual Studio         |
-| **OS**                    | Linux (Ubuntu, Debian, Kali, PopOS, Manjaro, Linux Mint), Windows                    |
 
-</div>
-
----
-
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajjadali56&show_icons=true&theme=blue-green&count_private=true" alt="GitHub Stats" width="33%" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadali56&theme=blue-green&langs_count=8&layout=compact" alt="Top Langs" width="33%" height="200px"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=SajjadAli56&theme=dark" alt="GitHub Streak" width="33%" height="200px"/>  
 </div>
 
 ---
